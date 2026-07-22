@@ -244,5 +244,14 @@ function typeMessage(){
         }
 
     },25);
+    // ======================================
+// RESTART
+// ======================================
+
+function restartWebsite(){
+
+    location.reload();
+
+}
 
 }
