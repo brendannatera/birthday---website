@@ -28,15 +28,15 @@ const loadingMessages = [
 
 "Connecting...",
 
-"Scanning identity...",
+"Scanning that bagu...",
 
-"Checking birthday database...",
+"Checking for all her personalities...",
 
 "Searching for talkative girl...",
 
 "Estimated completion time...",
 
-"9 hours...",
+"17 hours...",
 
 "😂",
 
@@ -44,9 +44,9 @@ const loadingMessages = [
 
 "Around 30 seconds.",
 
-"Finding today's date...",
+"Btw i love my Brian...",
 
-"Downloading happiness...",
+"Looking for putskin miline bay girls...",
 
 "Birthday girl verified. ✓",
 
