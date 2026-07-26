@@ -217,9 +217,22 @@ function typeTitle(){
 
         if(i >= heading.length){
 
-            clearInterval(timer);
+          clearInterval(timer);
 
-            setTimeout(typeMessage,700);
+// Small pause
+setTimeout(function(){
+
+    // Launch confetti
+    confetti({
+        particleCount: 120,
+        spread: 80,
+        origin: { y: 0.6 }
+    });
+
+    // Start typing after confetti
+    setTimeout(typeMessage,3000);
+
+},500);
 
         }
 
