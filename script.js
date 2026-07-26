@@ -223,14 +223,10 @@ function typeTitle(){
 setTimeout(function(){
 
     // Launch confetti
-    confetti({
-        particleCount: 120,
-        spread: 80,
-        origin: { y: 0.6 }
-    });
+   
 
     // Start typing after confetti
-    setTimeout(typeMessage,3000);
+    setTimeout(typeMessage,500);
 
 },500);
 
