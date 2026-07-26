@@ -252,6 +252,11 @@ function typeMessage(){
         if(i >= birthdayText.length){
 
             clearInterval(timer);
+            setTimeout(function(){
+
+    document.getElementById("psButton").style.display = "inline-block";
+
+},2000);
 
         }
 
