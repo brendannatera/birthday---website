@@ -273,4 +273,13 @@ function restartWebsite(){
     location.reload();
 
 }
+const psButton = document.getElementById("psButton");
+const psCard = document.getElementById("psCard");
 
+psButton.onclick = function(){
+
+    psCard.style.display = "block";
+
+    psButton.style.display = "none";
+
+}
