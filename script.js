@@ -34,15 +34,15 @@ const loadingMessages = [
 
 "Searching for talkative girl...",
 
-"Estimated completion time...",
+"Can sense big forehead...",
 
-"17 hours...",
+"About as big as megamind...",
 
 "😂",
 
 "Just kidding.",
 
-"Around 30 seconds.",
+"Hope Mum and Dad are Healthy and Happy.",
 
 "Btw i love my Brian...",
 
