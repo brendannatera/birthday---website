@@ -282,7 +282,13 @@ section{
 
     display:none;
 
-    background:#fdf6ff;
+    background:
+    linear-gradient(rgba(253,246,255,0.75), rgba(253,246,255,0.75)),
+    url("birthday-bg.webp");
+
+    background-size:cover;
+
+    background-position:center;
 
     overflow:visible;
 
