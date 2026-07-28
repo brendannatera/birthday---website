@@ -325,3 +325,20 @@ section{
     padding-bottom:80px;
 
 }
+.tameraPhoto{
+
+    width:180px;
+
+    height:180px;
+
+    object-fit:cover;
+
+    border-radius:50%;
+
+    margin:20px auto;
+
+    display:block;
+
+    box-shadow:0px 5px 20px rgba(0,0,0,0.2);
+
+}
